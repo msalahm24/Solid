@@ -1,0 +1,17 @@
+C:\Users\pc3\source\repos\solid2022\solid2022\bin\Debug\net6.0\solid2022.exe
+C:\Users\pc3\source\repos\solid2022\solid2022\bin\Debug\net6.0\solid2022.deps.json
+C:\Users\pc3\source\repos\solid2022\solid2022\bin\Debug\net6.0\solid2022.runtimeconfig.json
+C:\Users\pc3\source\repos\solid2022\solid2022\bin\Debug\net6.0\solid2022.dll
+C:\Users\pc3\source\repos\solid2022\solid2022\bin\Debug\net6.0\ref\solid2022.dll
+C:\Users\pc3\source\repos\solid2022\solid2022\bin\Debug\net6.0\solid2022.pdb
+C:\Users\pc3\source\repos\solid2022\solid2022\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pc3\source\repos\solid2022\solid2022\obj\Debug\net6.0\solid2022.csproj.AssemblyReference.cache
+C:\Users\pc3\source\repos\solid2022\solid2022\obj\Debug\net6.0\solid2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc3\source\repos\solid2022\solid2022\obj\Debug\net6.0\solid2022.AssemblyInfoInputs.cache
+C:\Users\pc3\source\repos\solid2022\solid2022\obj\Debug\net6.0\solid2022.AssemblyInfo.cs
+C:\Users\pc3\source\repos\solid2022\solid2022\obj\Debug\net6.0\solid2022.csproj.CoreCompileInputs.cache
+C:\Users\pc3\source\repos\solid2022\solid2022\obj\Debug\net6.0\solid2022.csproj.CopyComplete
+C:\Users\pc3\source\repos\solid2022\solid2022\obj\Debug\net6.0\solid2022.dll
+C:\Users\pc3\source\repos\solid2022\solid2022\obj\Debug\net6.0\ref\solid2022.dll
+C:\Users\pc3\source\repos\solid2022\solid2022\obj\Debug\net6.0\solid2022.pdb
+C:\Users\pc3\source\repos\solid2022\solid2022\obj\Debug\net6.0\solid2022.genruntimeconfig.cache
